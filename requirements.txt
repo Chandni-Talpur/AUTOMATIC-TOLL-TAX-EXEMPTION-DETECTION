@@ -1,0 +1,11 @@
+streamlit
+streamlit_option_menu
+firebase_admin
+mysql.connector
+pandas
+onnxruntime
+numpy
+opencv-python
+ultralytics
+Pillow
+requests
